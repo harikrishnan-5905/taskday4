@@ -1,0 +1,10 @@
+1)create your resume data in json format?
+    {
+    "name": "HARI KRISHNAN",
+    "email": "harikeishnan34993@gmail.com",
+    "phone": "8778985608",
+      "address": "vgv ganden 17th street",
+      "city": "tirupper",
+       "state": "tamil nadu",
+      "country": "india",
+    },
